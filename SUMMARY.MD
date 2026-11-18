@@ -1,5 +1,8 @@
 # New synthesis recipes
 
+> [!WARNING]
+> Some names may vary, based on which translation you use
+
 ## 4-monster synthesis
 
 |Monster name|4-monster synthesis recipe|

@@ -6,16 +6,16 @@ This is a RomFS patch that makes all unobtainable monsters of DQMJ3P available t
 
 Unlike cheats and plugins, this patch should work regardless of other mods, like translations (as long as these other mods don't change or overwrite files from this patch).
 
-I didn't use any AI, I went and read through a bunch of hex values of the various game files to guess what they mean to make this patch.
-
 The list of synthesis recipes added by this mod can be found in [SUMMARY.MD](./SUMMARY.MD).
+
+I didn't use any AI, I went and read through a bunch of hex values of the various game files to guess what they mean to make this patch.
 
 ### Installation
 
 > In any case, having DQMJ3P and its 1.3 update is required for this patch to work as intended.
 
 - On emulator (Azahar is the recommended one)
-  1. Get `DQMJ3PUMS.zip` from the [releases](https://github.com/Enignmeman/DQMJ3P-Unobtainable-monster-synthesis/releases/)
+  1. Get `DQMJ3PUMS.zip` from the [releases](https://github.com/Enignmeman/DQMJ3P-Unobtainable-monster-synthesis/releases/tag/V0.2)
   2. Unzip it
   3. In the game list, right-click DQMJ3P and choose `Open Mods Location`
   4. Copy the `/romfs/` folder from the extracted archive to the just opened folder window
@@ -25,7 +25,7 @@ The list of synthesis recipes added by this mod can be found in [SUMMARY.MD](./S
 
 > Don't forget to make sure you have game patching enabled.
 
-  1. Get `DQMJ3PUMS.zip` from the [releases](https://github.com/Enignmeman/DQMJ3P-Unobtainable-monster-synthesis/releases/)
+  1. Get `DQMJ3PUMS.zip` from the [releases](https://github.com/Enignmeman/DQMJ3P-Unobtainable-monster-synthesis/releases/tag/V0.2)
   2. Unzip it
   3. On your SD card, if they don't exist yet, create a `titles` folder in `/luma/` and a `00040000001ACB00` folder in `/luma/titles/` on your SD card
      - You should have `/luma/titles/00040000001ACB00` now
@@ -102,4 +102,4 @@ You helped me search in the right direction when I was getting stuck when search
 
 - All the members of the community that helped me figure out the new synthesis recipes as well as sharing thoughts and critiques.
 
-Immuno, Retho, RayGun! and Daddyvx from the [DQMJ3P Discord server](https://discord.com/invite/W5yRJpDd5e).
+Immuno, Retho, RayGun! and Daddyvx from the [DQMJ3P English Discord server](https://discord.com/invite/W5yRJpDd5e).
