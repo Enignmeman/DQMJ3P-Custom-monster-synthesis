@@ -1,0 +1,741 @@
+0000 | 0 | -
+0100 | 1 | Slime
+0200 | 2 | She-Slime
+0300 | 3 | Metal Slime
+0400 | 4 | Gold Slime
+0500 | 5 | Pearl Slime
+0600 | 6 | Metal Pearl Slime
+0700 | 7 | Golden Pearl Slime
+0800 | 8 | Angel Slime
+0900 | 9 | Metal Angel Slime
+0A00 | 10 | Gold Angel Slime
+0B00 | 11 | Bubble Slime
+0C00 | 12 | Liquid Metal Slime
+0D00 | 13 | Truffle Slime
+0E00 | 14 | Shroom Slime
+0F00 | 15 | Dank Slime
+1000 | 16 | Metal Truffle
+1100 | 17 | Shell Slime
+1200 | 18 | Seaslime
+1300 | 19 | Slimecicle
+1400 | 20 | Coalslime
+1500 | 21 | Heal Slime
+1600 | 22 | Man-o-war
+1700 | 23 | Cureslime
+1800 | 24 | Metal Healie
+1900 | 25 | King Slime
+1A00 | 26 | King Cureslime
+1B00 | 27 | Metal King Slime
+1C00 | 28 | Slime Stack
+1D00 | 29 | Gem Jamboree
+1E00 | 30 | Metal Medley
+1F00 | 31 | Pink Triplets
+2000 | 32 | Slime Knight
+2100 | 33 | Metal Slime Knight
+2200 | 34 | Knight of Hearts
+2300 | 35 | Drake Slime
+2400 | 36 | Dragon Slime
+2500 | 37 | Metal Drake Slime
+2600 | 38 | Gem Slime
+2700 | 39 | Darkonium Slime
+2800 | 40 | Emperor Slime
+2900 | 41 | Platinum King
+2A00 | 42 | Metal Goddess
+2B00 | 43 | Bad Egg
+2C00 | 44 | Rotten Egg
+2D00 | 45 | Jargon
+2E00 | 46 | Dragurn
+2F00 | 47 | Bongobrute
+3000 | 48 | Green Dragon
+3100 | 49 | Red Dragon
+3200 | 50 | Blue Dragon
+3300 | 51 | Drag Racer
+3400 | 52 | Tundragon
+3500 | 53 | Tyranoliner
+3600 | 54 | Jurrassic Hellion
+3700 | 55 | Hackasaurus
+3800 | 56 | Axesaurus
+3900 | 57 | Tomahawk Rex
+3A00 | 58 | Mandrake Major
+3B00 | 59 | Mandrake Marauder
+3C00 | 60 | Mandrake Marshal
+3D00 | 61 | Mandrake Monarch
+3E00 | 62 | Mandrake Master
+3F00 | 63 | Dragrove
+4000 | 64 | Elder Dragrove
+4100 | 65 | Volcanic Dragrove
+4200 | 66 | Lively Lizard
+4300 | 67 | Dappled Dragon
+4400 | 68 | Sillimander
+4500 | 69 | Sealamander
+4600 | 70 | Liege Lizard
+4700 | 71 | Geodraco Baugaia
+4800 | 72 | Kaiser Dragon
+4900 | 73 | Gaia Dragon
+4A00 | 74 | Small Fry
+4B00 | 75 | Frizzard
+4C00 | 76 | Minewt
+4D00 | 77 | Little Burner
+4E00 | 78 | Tortoceratops
+4F00 | 79 | Tyrannoceratops
+5000 | 80 | Terrorceratops
+5100 | 81 | Trikaceratops
+5200 | 82 | Drakularge
+5300 | 83 | Drakulard
+5400 | 84 | Drakulurch
+5500 | 85 | Drakulord
+5600 | 86 | Wyrtle
+5700 | 87 | Wyrtoise
+5800 | 88 | Wonder Wyrtle
+5900 | 89 | Great Dragon
+5A00 | 90 | Black Dragon
+5B00 | 91 | Dragonlord
+5C00 | 92 | Dragovian Lord
+5D00 | 93 | Deepdraco Gilgeesh
+5E00 | 94 | Valkeros of the Horizons
+5F00 | 95 | Tactician Iddo
+6000 | 96 | Illusionist Fazma
+6100 | 97 | Pusugon the Monsterous
+6200 | 98 | Pusugon Awakened
+6300 | 99 | Crimson Wyrm
+6400 | 100 | Azure Wyrm
+6500 | 101 | Gilded Wyrm
+6600 | 102 | Great Sabrecat
+6700 | 103 | Striking Sabercat
+6800 | 104 | Dark Sabrecat
+6900 | 105 | Tantamount
+6A00 | 106 | Equinox
+6B00 | 107 | Godsteed
+6C00 | 108 | Guaardvark
+6D00 | 109 | Haardvark
+6E00 | 110 | Silver Haardvark
+6F00 | 111 | Hammerhood
+7000 | 112 | Brownie
+7100 | 113 | Spiked Clubber
+7200 | 114 | Special Brownie
+7300 | 115 | Spiked Hare
+7400 | 116 | Golden Hare
+7500 | 117 | Bunnicorn
+7600 | 118 | Queenly Hare
+7700 | 119 | Mischievous Mole
+7800 | 120 | Mad Mole
+7900 | 121 | Powie Yowie
+7A00 | 122 | Sweaty Yeti
+7B00 | 123 | Sasquash
+7C00 | 124 | Yellow Bellow
+7D00 | 125 | Orc
+7E00 | 126 | Orc King
+7F00 | 127 | Orc Chieftain
+8000 | 128 | Jailcat
+8100 | 129 | Candy Cat
+8200 | 130 | Terror Tabby
+8300 | 131 | Prism Puss
+8400 | 132 | Platypunk
+8500 | 133 | Splatypunk
+8600 | 134 | Crack-Billed Platypunk
+8700 | 135 | Platypunk Scholar
+8800 | 136 | Great Sabercub
+8900 | 137 | Striking Sabercub
+8A00 | 138 | Ewwnicorn
+8B00 | 139 | Mythsteed
+8C00 | 140 | Leon Byblos
+8D00 | 141 | Tyrant Basagrande
+8E00 | 142 | Robber Rabbit
+8F00 | 143 | Twilight Chappie
+9000 | 144 | Dirty Bunny
+9100 | 145 | Naumannborg
+9200 | 146 | Elephant King
+9300 | 147 | Evil-Ganesh
+9400 | 148 | Dream Eater
+9500 | 149 | Incubus
+9600 | 150 | Nightmare
+9700 | 151 | Big Hat
+9800 | 152 | Hog Hat
+9900 | 153 | Swinebrero
+9A00 | 154 | Oinkemist
+9B00 | 155 | Cat Liberio
+9C00 | 156 | Phantom Galray
+9D00 | 157 | Bullfinch
+9E00 | 158 | Buffalo Wing
+9F00 | 159 | Bulldozer
+A000 | 160 | Dracky
+A100 | 161 | Drackolyte
+A200 | 162 | Drackmage
+A300 | 163 | Drackyma
+A400 | 164 | Firebird
+A500 | 165 | Snowbird
+A600 | 166 | Hybird
+A700 | 167 | Δ Hraesvelgr
+A800 | 168 | Jamirus
+A900 | 169 | Gryphon
+AA00 | 170 | War Gryphon
+AB00 | 171 | Galbatross
+AC00 | 172 | Gargoyle
+AD00 | 173 | Hawk Man
+AE00 | 174 | Goregoyle
+AF00 | 175 | Black Goyle
+B000 | 176 | Bludgerigar
+B100 | 177 | Grudgerigar
+B200 | 178 | Paralakeet
+B300 | 179 | Chimaera
+B400 | 180 | Hocus Chimaera
+B500 | 181 | Cosmic Chimaera
+B600 | 182 | Lunar Chimaera
+B700 | 183 | Hades Condor
+B800 | 184 | Garuda
+B900 | 185 | Elysium Bird
+BA00 | 186 | Phoenix
+BB00 | 187 | Empyrea
+BC00 | 188 | Great Empyrea
+BD00 | 189 | Ramia
+BE00 | 190 | Prism Peacock
+BF00 | 191 | Terrorhawk
+C000 | 192 | Bird of Terrordise
+C100 | 193 | Deadly Dodo
+C200 | 194 | Mad Mallard
+C300 | 195 | Perky Pelican
+C400 | 196 | Funghoul
+C500 | 197 | Morphean Mushroom
+C600 | 198 | Mushroom Mage
+C700 | 199 | Cactiball
+C800 | 200 | Fandangow
+C900 | 201 | Gold Cactiball
+CA00 | 202 | Ornery Onion
+CB00 | 203 | Loathsome Leek
+CC00 | 204 | Brimstone Bulb
+CD00 | 205 | Carnivine
+CE00 | 206 | Mandragore
+CF00 | 207 | Venus Guytrap
+D000 | 208 | Bulby Baby
+D100 | 209 | Nappy Baby
+D200 | 210 | Fluffy Puffy
+D300 | 211 | Leaf Sprite
+D400 | 212 | Darkwood Spirit
+D500 | 213 | Jungle Guardian
+D600 | 214 | Woebergine
+D700 | 215 | Awebergine
+D800 | 216 | Übergine
+D900 | 217 | Maulusc
+DA00 | 218 | Merlusc
+DB00 | 219 | Crabid
+DC00 | 220 | Crabber Dabber Doo
+DD00 | 221 | King Crab
+DE00 | 222 | Handsome Crab
+DF00 | 223 | Giant Moth
+E000 | 224 | Devilmoth
+E100 | 225 | Killer Moth
+E200 | 226 | Dark Moth
+E300 | 227 | Green Scissors
+E400 | 228 | Black Mantis
+E500 | 229 | Yellow Sickle
+E600 | 230 | Bulletproof Beatle
+E700 | 231 | Mosquitle Beatle
+E800 | 232 | Icicle Beatle
+E900 | 233 | Arachnida the Enigma
+EA00 | 234 | Giestlord Gejura
+EB00 | 235 | Lump Wizard
+EC00 | 236 | Lump Shaman
+ED00 | 237 | Lump Mage
+EE00 | 238 | Silvapithecus
+EF00 | 239 | Batmandrill
+F000 | 240 | Pazuzu
+F100 | 241 | Gigantes
+F200 | 242 | Cyclops
+F300 | 243 | Queen Ferz
+F400 | 244 | Atlas
+F500 | 245 | Night Clubber
+F600 | 246 | Hammer Bammer
+F700 | 247 | Baalzack
+F800 | 248 | Pruslas
+F900 | 249 | Troll
+FA00 | 250 | Boss Troll
+FB00 | 251 | Stout Troll
+FC00 | 252 | Terror Troll
+FD00 | 253 | Trollciopath
+FE00 | 254 | Archdemon
+FF00 | 255 | Belial
+0001 | 256 | Gremlin
+0101 | 257 | Grimlin
+0201 | 258 | Ba'al Zebub
+0301 | 259 | Teeny Sanguini
+0401 | 260 | Pink Sanguini
+0501 | 261 | Snowy Sanguini
+0601 | 262 | Genie Sanguini
+0701 | 263 | Masked Crusader
+0801 | 264 | Psycho Crusader
+0901 | 265 | Mystic Crusader
+0A01 | 266 | Bamboo Priest
+0B01 | 267 | Bamboo Boy
+0C01 | 268 | Enma's Envoy
+0D01 | 269 | Nightmare Conductor
+0E01 | 270 | Malicious Maestro
+0F01 | 271 | Amodeus
+1001 | 272 | Galbagorba
+1101 | 273 | Elemental Pair
+1201 | 274 | Double Hitter
+1301 | 275 | Mystic Juliante
+1401 | 276 | Dancer Pleshauna
+1501 | 277 | Shaman Marline
+1601 | 278 | Devil Dog Belinda
+1701 | 279 | Devil Dog Brenda
+1801 | 280 | Zaigas the Fiend
+1901 | 281 | Zexen the Devil
+1A01 | 282 | Ziggy the Wicked
+1B01 | 283 | Kabalna the Divine
+1C01 | 284 | Guardian Lazuvann
+1D01 | 285 | Belmud the Destroyer
+1E01 | 286 | Zeldorado
+1F01 | 287 | Enchantress Gretel
+2001 | 288 | Putrefido
+2101 | 289 | Rottenweiler
+2201 | 290 | Bullmustiff
+2301 | 291 | Skullbat
+2401 | 292 | Charmbat
+2501 | 293 | Skelebat
+2601 | 294 | Corpsebat
+2701 | 295 | Swooperior
+2801 | 296 | Skelegon
+2901 | 297 | Drakenstein
+2A01 | 298 | Dragon Zombie
+2B01 | 299 | Bones of Baramos
+2C01 | 300 | Tortured Soul
+2D01 | 301 | Wight Priest
+2E01 | 302 | Wight King
+2F01 | 303 | Wight Emperor
+3001 | 304 | Whipped Scream
+3101 | 305 | Spoilt Scream
+3201 | 306 | Eyes Scream
+3301 | 307 | Skeleton
+3401 | 308 | Skeleton Soldier
+3501 | 309 | Dark Skeleton
+3601 | 310 | Walking Corpse
+3701 | 311 | Corpse Corporal
+3801 | 312 | Ghoul
+3901 | 313 | Mud Smith
+3A01 | 314 | Ghost
+3B01 | 315 | Spitegeist
+3C01 | 316 | Fightgeist
+3D01 | 317 | Mammon
+3E01 | 318 | Mucky Eddy
+3F01 | 319 | Poison Petey
+4001 | 320 | Sulfurous Sammy
+4101 | 321 | Discombombulator
+4201 | 322 | Zepling
+4301 | 323 | Healium Balloon
+4401 | 324 | Li'l Whizzer
+4501 | 325 | Calamity Blade Oren
+4601 | 326 | Moonlight Shogun
+4701 | 327 | Rockbomb
+4801 | 328 | Bomboulder
+4901 | 329 | Grinade
+4A01 | 330 | Droll Roller
+4B01 | 331 | Spitnik
+4C01 | 332 | Dark Star
+4D01 | 333 | Solaris
+4E01 | 334 | Cannibox
+4F01 | 335 | Mimic
+5001 | 336 | Pandora's Box
+5101 | 337 | Golem
+5201 | 338 | Gold Golem
+5301 | 339 | Stone Golem
+5401 | 340 | Ice Golem
+5501 | 341 | Restless Armour
+5601 | 342 | Infernal Armour
+5701 | 343 | Lethal Armour
+5801 | 344 | Blight Armour
+5901 | 345 | Rubanka
+5A01 | 346 | Hell Catcher
+5B01 | 347 | Baron Knight
+5C01 | 348 | Prancing Pillar
+5D01 | 349 | Cavorting Column
+5E01 | 350 | Colonnade of Combustion
+5F01 | 351 | Copper Column
+6001 | 352 | Mourning Moon
+6101 | 353 | Gloomy Globe
+6201 | 354 | Mars Mug
+6301 | 355 | Dancing Flame
+6401 | 356 | Frostburn
+6501 | 357 | Green Glow
+6601 | 358 | Propane Man
+6701 | 359 | Mudraker
+6801 | 360 | Bogman
+6901 | 361 | Jellyman
+6A01 | 362 | Magman
+6B01 | 363 | Seasludge
+6C01 | 364 | Cumaulus
+6D01 | 365 | Hell Niño
+6E01 | 366 | Freezing Fog
+6F01 | 367 | Demon Cloud
+7001 | 368 | Balhib
+7101 | 369 | Bilhaw
+7201 | 370 | Holy Baron
+7301 | 371 | Emeraldon
+7401 | 372 | Astaroth
+7501 | 373 | Mecha-Mynah
+7601 | 374 | Clockwork Cuckoo
+7701 | 375 | Robo-Robin
+7801 | 376 | Fabricated Phoenix
+7901 | 377 | Hunter Mech
+7A01 | 378 | Killing Machine
+7B01 | 379 | Type G
+7C01 | 380 | Robo-Reaper
+7D01 | 381 | Overkilling Machine
+7E01 | 382 | Überkilling Machine
+7F01 | 383 | Trauminator
+8001 | 384 | Ultimate Weapon
+8101 | 385 | Mazinger G
+8201 | 386 | Metal Dragon
+8301 | 387 | Mechan-o-wyrm
+8401 | 388 | Dark Nebula
+8501 | 389 | Bamboo Soldier
+8601 | 390 | Lantern Minion
+8701 | 391 | Bamboo Bully
+8801 | 392 | Fondude
+8901 | 393 | Funky Feta
+8A01 | 394 | Gross Gorgonzola
+8B01 | 395 | Rainbow Fondude
+8C01 | 396 | Needleman
+8D01 | 397 | Spiked 'Doo
+8E01 | 398 | Voodoo Doll
+8F01 | 399 | Horrordrobe
+9001 | 400 | Pandora's Dresser
+9101 | 401 | Royal Armoir
+9201 | 402 | Chained Darkhood
+9301 | 403 | Bloody Assassin
+9401 | 404 | Booming Thunder
+9501 | 405 | Totem of Urubea
+9601 | 406 | Doom Groom
+9701 | 407 | Defender of the Depths
+9801 | 408 | Mortoad
+9901 | 409 | Expload
+9A01 | 410 | Blastoad
+9B01 | 411 | Khalamari Kid
+9C01 | 412 | Squid kid
+9D01 | 413 | Heligator
+9E01 | 414 | Darkodile
+9F01 | 415 | Crocodog
+A001 | 416 | Dangler
+A101 | 417 | Fangler
+A201 | 418 | Mangler
+A301 | 419 | Suckling Ocker
+A401 | 420 | Mother Ocker
+A501 | 421 | Gracos
+A601 | 422 | Gracolyte
+A701 | 423 | Gracos V
+A801 | 424 | King Squid
+A901 | 425 | Tentacular
+AA01 | 426 | Squidzilla
+AB01 | 427 | Octophant
+AC01 | 428 | Elepus
+AD01 | 429 | Devilfish
+AE01 | 430 | Fangfish
+AF01 | 431 | Barracuda
+B001 | 432 | Piranian
+B101 | 433 | Tuskateer
+B201 | 434 | Maulrus
+B301 | 435 | War-rus
+B401 | 436 | Marine Knight
+B501 | 437 | Sea Cavalier
+B601 | 438 | Frightbait
+B701 | 439 | Bonefish
+B801 | 440 | Armored Wartoise
+B901 | 441 | Plated Goretoise
+BA01 | 442 | Ironclad Wartoise
+BB01 | 443 | Lleviathan
+BC01 | 444 | Stale Whale
+BD01 | 445 | Pale Whale
+BE01 | 446 | Pumpoise
+BF01 | 447 | Needlephin
+C001 | 448 | Wild Boarfish
+C101 | 449 | Pigmalion
+C201 | 450 | Aquestrian Gladiator
+C301 | 451 | Quayhorse
+C401 | 452 | Poseidon
+C501 | 453 | Wildcard
+C601 | 454 | Ace of Spades
+C701 | 455 | Wulfspade Ace
+C801 | 456 | Malroth
+C901 | 457 | Archfiend Zoma
+CA01 | 458 | Psaro the Manslayer
+CB01 | 459 | Grandmaster Nimzo
+CC01 | 460 | Estark
+CD01 | 461 | Demonlord Mortamor
+CE01 | 462 | Demonking Orgodemir
+CF01 | 463 | Dark God Rhapthorne
+D001 | 464 | Corvus the Fallen
+D101 | 465 | Hades Nelgel
+D201 | 466 | Dark Hero Anlucia
+D301 | 467 | Dr Snapped
+D401 | 468 | Leonyx
+D501 | 469 | Baboodread
+D601 | 470 | Miraclare
+D701 | 471 | He Who Bears no Name
+D801 | 472 | Juggerwroth
+D901 | 473 | Shadroth
+DA01 | 474 | Disasterking
+DB01 | 475 | Madesgora
+DC01 | 476 | Attihocc
+DD01 | 477 | Hoakari
+DE01 | 478 | King Healslime
+DF01 | 479 | Great Nochoro Z
+E001 | 480 | J3-Rebel Axel
+E101 | 481 | Metabode
+E201 | 482 | Kandar Viking Force
+E301 | 483 | J3-Rebel Wing
+E401 | 484 | Sancho
+E501 | 485 | Snapped-Dragon
+E601 | 486 | J3-Rebel Marine
+E701 | 487 | Dark Lord Valaat
+E801 | 488 | Wadatsumi
+E901 | 489 | Snapped-off
+EA01 | 490 | Snapped-Almighty
+EB01 | 491 | Jormungandros
+EC01 | 492 | Δ Slime
+ED01 | 493 | Δ She-Slime
+EE01 | 494 | Δ Metal Slime
+EF01 | 495 | Δ Chimaera
+F001 | 496 | Δ Hocus Chimaera
+F101 | 497 | Δ Cosmic Chimaera
+F201 | 498 | Δ Crabid
+F301 | 499 | Δ Crabber Dabber Doo
+F401 | 500 | Δ King Crab
+F501 | 501 | Δ Gigantes
+F601 | 502 | Δ Atlas
+F701 | 503 | Δ Liege Lizard
+F801 | 504 | Δ Gaia Dragon
+F901 | 505 | Δ Prism Peacock
+FA01 | 506 | Δ Terrorhawk
+FB01 | 507 | Δ Skelegon
+FC01 | 508 | Δ Dragon Zombie
+FD01 | 509 | Δ King Squid
+FE01 | 510 | Δ Tentacular
+FF01 | 511 | Δ Voodoo Doll
+0002 | 512 | Δ Spiked 'Doo
+0102 | 513 | Δ Dragrove
+0202 | 514 | Δ Volcanic Dragrove
+0302 | 515 | Δ Elder Dragrove
+0402 | 516 | Δ Mourning Moon
+0502 | 517 | Δ Gloomy Globe
+0602 | 518 | Δ Mars Mug
+0702 | 519 | Δ Tuskateer
+0802 | 520 | Δ Maulrus
+0902 | 521 | Δ War-rus
+0A02 | 522 | Δ Estark
+0B02 | 523 | Δ Lleviathan
+0C02 | 524 | Δ Leon Byblos
+0D02 | 525 | Δ Archdemon
+0E02 | 526 | Bundold
+0F02 | 527 | Azamook
+1002 | 528 | Itaburu
+1102 | 529 | Δ Mechan-o-wyrm
+1202 | 530 | Δ Metal Dragon
+1302 | 531 | Boshock
+1402 | 532 | L'arc-en-Shell
+1502 | 533 | Beaster Egg
+1602 | 534 | Eggsalted Leader
+1702 | 535 | Grancaesar
+1802 | 536 | Dark Sabercub
+1902 | 537 | Twilightmare
+1A02 | 538 | Affable Black
+1B02 | 539 | Dark Sanguini
+1C02 | 540 | Coalem
+1D02 | 541 | Killing Machine Lite
+1E02 | 542 | Killer Crimson
+1F02 | 543 | Queen Slime
+2002 | 544 | Battle Axesaurus
+2102 | 545 | Phantomount
+2202 | 546 | Rainbow Scissors
+2302 | 547 | Rinjara the Fiend
+2402 | 548 | Maniacal Mole
+2502 | 549 | Target Boy
+2602 | 550 | Δ Landwurm
+2702 | 551 | Black Wyrm
+2802 | 552 | Gold Nochoro Z
+2902 | 553 | Platinum Nochoro Z
+C702 | 711 | Sky Dragon
+C802 | 712 | Conklave
+C902 | 713 | Boring Bug
+CA02 | 714 | Bjørn the Behemoose
+CB02 | 715 | Demon-at-arms
+CC02 | 716 | Dimensional Dragon
+CD02 | 717 | Nokturnus
+CE02 | 718 | Yamata no Orochi
+CF02 | 719 | God
+D002 | 720 | Upa Soldier
+D102 | 721 | Shadow
+D202 | 722 | Swarm Troopers
+D302 | 723 | Dragonlord
+D402 | 724 | Hargon
+D502 | 725 | Ruin
+D602 | 726 | Chariot Chappie
+D702 | 727 | Killer Wave
+D802 | 728 | Wind Sickles
+D902 | 729 | Gran Estark
+DA02 | 730 | Living Statue
+DB02 | 731 | Muddy Hand
+DC02 | 732 | Marquis de Léon
+DD02 | 733 | King Teeny Sanguini
+DE02 | 734 | Stormsgate Citadel
+DF02 | 735 | Wraithwand
+E002 | 736 | Gripevine
+E102 | 737 | S'quarrel
+E202 | 738 | Stump Chump
+E302 | 739 | Schleiman Tank
+E402 | 740 | Slime Family Reunion
+E502 | 741 | Tiko
+E602 | 742 | Cavorting Column
+E702 | 743 | Ram-tam Tanuki
+E802 | 744 | Master Dragon
+E902 | 745 | Imp
+EA02 | 746 | Ultraviolent Ray
+EB02 | 747 | Baramos
+EC02 | 748 | Shen Long
+ED02 | 749 | Snow Dragon
+EE02 | 750 | Tunneler
+EF02 | 751 | Black Veggie
+F002 | 752 | Hell Gladiator
+F102 | 753 | Dhuran
+F202 | 754 | Loss Leader
+F302 | 755 | King Hydra
+F402 | 756 | Grand Hydra
+F502 | 757 | Dark Eyelephant
+F602 | 758 | Axolhotl
+F702 | 759 | Hologhost
+F802 | 760 | Corrupt Carter
+F902 | 761 | Mad Wave
+FA02 | 762 | Sand Wave
+FB02 | 763 | Spinchilla
+FC02 | 764 | Red Cyclone
+FD02 | 765 | Granite Titan
+FE02 | 766 | Gilded Colossus
+FF02 | 767 | See Sprite
+0003 | 768 | Bloody Hand
+0103 | 769 | Ferocial
+0203 | 770 | Grave Digger
+0303 | 771 | Dreadstaff
+0403 | 772 | Centaurus
+0503 | 773 | Blue Minx
+0603 | 774 | Snail Tail
+0703 | 775 | Dark Dryad
+0803 | 776 | Dirty Dogu
+0903 | 777 | Bebingo Satan
+0A03 | 778 | Minidemon
+0B03 | 779 | Gigas Ray
+0C03 | 780 | Murderous Anchor
+0D03 | 781 | Black Tanuki
+0E03 | 782 | Gold Tanuki
+0F03 | 783 | Slime Cancer
+1003 | 784 | Baramos Evil
+1103 | 785 | Slamen Rider
+1203 | 786 | Slamen Dark, the Reaper
+1303 | 787 | Zemelgias
+1403 | 788 | Cottney
+1503 | 789 | Rottney
+1603 | 790 | Topo
+1703 | 791 | Captain Crow
+1803 | 792 | Darck
+1903 | 793 | Blackmar
+1A03 | 794 | Barbarus
+1B03 | 795 | Tyrannosaurus Wrecks
+1C03 | 796 | Windeo
+1D03 | 797 | Freshia
+1E03 | 798 | Aquille
+1F03 | 799 | Gaogaia
+2003 | 800 | King Windeo
+2103 | 801 | Queen Freshia
+2203 | 802 | Deuce Arqule
+2303 | 803 | Jack Gaogaia
+2403 | 804 | Jester
+2503 | 805 | Psaro of the Demon Clan
+2603 | 806 | Timelord Omega Rolex
+2703 | 807 | Madullajah Djinn
+2803 | 808 | Madullajah Marid
+2903 | 809 | Rhapthorne
+2A03 | 810 | Diamagon Ace
+2B03 | 811 | Hawkhart Ace
+2C03 | 812 | Cluboon Ace
+2D03 | 813 | Wulfspade
+2E03 | 814 | Diamagon
+2F03 | 815 | Hawkhart
+3003 | 816 | Cluboon
+3103 | 817 | Fractos Unfettered
+3203 | 818 | Premium Slime
+3303 | 819 | Aldarahla
+3403 | 820 | Goresby-Purrvis
+3503 | 821 | Hootingham-Gore
+3603 | 822 | Goreham-Hogg
+3703 | 823 | Shantak
+3803 | 824 | Eyevory Tusk-Tusk
+3903 | 825 | Sagittar
+3A03 | 826 | See Urchin
+3B03 | 827 | Ladja
+3C03 | 828 | Murdaw
+3D03 | 829 | Dhoulmagus
+3E03 | 830 | Greygnarl
+3F03 | 831 | Moosifer
+4003 | 832 | Bone Baron
+4103 | 833 | Cruelcumber
+4203 | 834 | Leokid
+4303 | 835 | Kandar
+4403 | 836 | Slon
+4503 | 837 | Kon
+4603 | 838 | Sir Leopold
+4703 | 839 | Dark Robo-Slime
+4803 | 840 | Slamen Rider Girl
+4903 | 841 | Chibi Heroines
+4A03 | 842 | Grandpa Pipit
+4B03 | 843 | Krilly
+4C03 | 844 | Rigor Mortex
+4D03 | 845 | Beastly Baboorude
+4E03 | 846 | Kandar Ladies
+4F03 | 847 | Princess Togami
+5003 | 848 | Barbatos
+5103 | 849 | Master Moosifer
+5203 | 850 | Great Ridon
+5303 | 851 | Noble Shadow
+5403 | 852 | Excalipurr
+5503 | 853 | Hammibal
+5603 | 854 | Fowleye
+5703 | 855 | Necromancer
+5803 | 856 | Demon Overlord
+5903 | 857 | Pudgedevil
+5A03 | 858 | Royal Flush
+5B03 | 859 | Fledgling Card
+5C03 | 860 | Lord Draco
+5D03 | 861 | Don Mole
+5E03 | 862 | Master CPU Q484
+5F03 | 863 | Rugius
+6003 | 864 | Vera
+6103 | 865 | Chibi One-Twos
+6203 | 866 | Chibi Threes
+6303 | 867 | Chibi Fours
+6403 | 868 | Chibi Eights
+6503 | 869 | Genoshidoh
+6603 | 870 | Asura Zoma
+6703 | 871 | Psycho Psaro
+6803 | 872 | Rebjørn
+6903 | 873 | Starkers
+6A03 | 874 | Zoma's Little Devil
+6B03 | 875 | Slamen Tykes
+6C03 | 876 | J3P Axel Gold
+6D03 | 877 | J3P-Gold Marine
+6E03 | 878 | J3P-Gold Wing
+6F03 | 879 | Sancho Zero
+7003 | 880 | Liquid Metal Slime King
+7103 | 881 | Halcyon the Godsteed
+8503 | 901 | Great King Vearn
+8603 | 902 | Vearn, the Beholder
+8703 | 903 | Kill-Vearn
+8803 | 904 | Myst-Vearn
+8903 | 905 | Gome-chan
+8A03 | 906 | Brash
+8B03 | 907 | Chiu
+E903 | 1001 | Slime (Family)
+EA03 | 1002 | Dragon (Family)
+EB03 | 1003 | Beast (Family)
+EC03 | 1004 | Nature (Family)
+ED03 | 1005 | Devil (Family)
+EE03 | 1006 | Zombie (Family)
+EF03 | 1007 | Material (Family)
+F003 | 1008 | Boss (Family)
+F103 | 1009 | ??? (Family)
